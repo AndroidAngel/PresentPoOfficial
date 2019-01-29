@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/avenir_black</item>
+        <item>@font/avenir_book</item>
+        <item>@font/avenir_light</item>
+        <item>@font/avenir_roman</item>
+
+    </array>
+</resources>
